@@ -122,12 +122,9 @@ pyinstaller --onefile snake_game.py
 
 - Советую обратить внимание на аналогичную игру моего друга: https://github.com/wixight/InuCatch/blob/main/README.md
 
-## Полезные ссылки
+## Теги
 
-- [Документация Pygame](https://www.pygame.org/docs/)
-- [Исходный код проекта](https://github.com/username/snake-game)
-- [Отслеживание ошибок](https://github.com/username/snake-game/issues)
-
+python, game, snake-game, pygame, educational, beginner-friendly, game-development, algorithm, open-source, learning-project
 ---
 
 **Примечание**: Для оптимальной работы игры рекомендуется использовать последнюю версию Python и актуальные драйверы видеокарты.
